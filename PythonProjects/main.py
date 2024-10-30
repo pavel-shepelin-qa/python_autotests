@@ -4,8 +4,8 @@ TOKEN = "52ac9979326cd22743c069cb8a76bc74"
 HEADER = {"Content-Type": "application/json", "trainer_token": TOKEN }
 body_registration = {
     "trainer_token": TOKEN,
-    "email": "shepelinpav2009@yandex.ru",
-    "password": "9043839218Zyf"
+    "email": "логин",
+    "password": "пароль"
 }
 
 body_confirmation = {
